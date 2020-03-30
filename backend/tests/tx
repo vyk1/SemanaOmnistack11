@@ -1,0 +1,27 @@
+testa a rota inteira
+testa funcionalidade ex: rota
+
+testes unitários,
+testa algo muito específico, isolado
+testa algo ´roprio da aplicação
+
+-------------------
+sobre deploy em node:
+*é experimental?
+HEROKU - porém caro pois é bom (automática) - free
+
+*é comercial?
+DIGITAL OCEAN - precificação previsível ex:$5/mo
+
+*exponencial?
+alguém especializado (devops)
+->arquiteturas AWS, GOOGLE CLOUD, MS AZURE
+~~
+
+sobre react:
+*é experimental?
+NETLIFY - caro, porém automático - específico para frontend (react vue angular...)
+
+padrões de código, eslint, prettier
+auth jwt
+styled components

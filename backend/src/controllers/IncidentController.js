@@ -28,7 +28,7 @@ module.exports = {
             .first()
 
         if (incident.ong_id != ong_id) {
-            return res.status(401).json({ error: "Operation not allowed." })
+            return res.status(401).json({ error: "Operation not allowed. Different ONG IDs." })
         }
 
         await conn('incidents')
